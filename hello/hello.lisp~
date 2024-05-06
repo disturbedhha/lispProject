@@ -1,1 +1,10 @@
-(format t "hello world")
+5345 M-x 
+magit-section-show-headings
+pr-ps-file-preview
+eglot-reconnect
+sgml-mode
+magit-patch-save
+help-follow-symbol
+cpp-parse-edit
+dired-unmark-all-marks
+magit-rebase-onto-upstream
